@@ -1,16 +1,4 @@
 # clima
+A weather info application that fetches weather data for any location using auto location capture using geolocator flutter package or by manually searching for a city name. The data is fetched using openweathermap api.
+<img width="224" alt="clima1" src="https://github.com/aryaa0502/clima/assets/101689725/5e037cbe-6993-4314-9053-4c6a4b54c564">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
